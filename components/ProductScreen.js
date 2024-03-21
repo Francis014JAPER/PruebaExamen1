@@ -8,7 +8,7 @@ const ProductScreen = () => {
     { id: 3, name: 'Galletas Oreo' },
     { id: 4, name: 'Doritos' },
     { id: 5, name: 'Chettos' },
-    { id: 6, name: 'Gomitas' },
+    { id: 6, name: 'Gomitas Panda' },
     { id: 7, name: 'Café' },
     { id: 8, name: 'Leche' },
     { id: 9, name: 'Yogur ' },
