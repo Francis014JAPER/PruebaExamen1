@@ -1,0 +1,10 @@
+// CategoryModel.js
+class CategoryModel {
+    constructor(id, name) {
+      this.id = id;
+      this.name = name;
+    }
+  }
+  
+  export default CategoryModel;
+  
